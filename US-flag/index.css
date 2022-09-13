@@ -1,0 +1,33 @@
+table {
+    margin: 9px;
+    width: 1200px;
+}
+    
+.azul {
+    background-color: red;
+    height: 50px;
+    width: 100px;
+    }
+    
+.blanco {
+    background-color: white;
+    height: 50px;
+    width: 100px;
+    
+    
+    }
+
+h2{
+    justify-content: center;
+    text-align: center;                                                                                                                                                                                     
+}
+
+img{
+    display: flex;
+    margin-top: 60px;
+    position: absolute;
+    top: 1.2%;
+    left: 1%;
+    width: 500px;
+    height: 376px;
+}
